@@ -1,6 +1,7 @@
 # QA-1216
 
 A new Flutter project.
+PR CHECKLIST ADDED
 
 ## Getting Started
 
